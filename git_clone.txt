@@ -1,0 +1,7 @@
+git init
+#add your file
+git add os_tuning.sh 
+git commit -m "first commit"
+#file name would be filename.git
+git remote add origin https://github.com/bswsahoo11111/centos7_os_tuning.git
+git push -u origin master
